@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FuckingGodRoque/Bloom-Beauty.git"
+    "url": "git+https://github.com/ImRoque/Bloom-Beauty.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FuckingGodRoque/Bloom-Beauty/issues"
+    "url": "https://github.com/ImRoque/Bloom-Beauty/issues"
   },
-  "homepage": "https://github.com/FuckingGodRoque/Bloom-Beauty#readme",
+  "homepage": "https://github.com/ImRoque/Bloom-Beauty#readme",
   "dependencies": {
     "dotenv": "^16.5.0",
     "openai": "^4.98.0"
